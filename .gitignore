@@ -34,3 +34,4 @@ derby.log
 
 # Ignore Gradle build output directory
 build
+.venv/
