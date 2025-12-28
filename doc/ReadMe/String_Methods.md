@@ -1,5 +1,15 @@
 # Python `str` (String) Methods — README Cheat Sheet
 
+
+# Run this (it prints every name in your installed Python’s String):
+```python
+import string
+print([n for n in dir(string) if not n.startswith("_")])
+```
+```shell
+python -c "import string; print([n for n in dir(string) if not n.startswith('_')])"
+```
+
 ## Formatting
 | Method | What it does | Example code | Result |
 |---|---|---|---|
