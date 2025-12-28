@@ -1,7 +1,7 @@
 ## 🐍 Python Table of Contents
 1) [Basic python commands](doc/ReadMe/Basic_Python_cmds.md)
-2) [pip](doc/ReadMe/pip.md)<Br>
-  2.1)[pip commands](doc/ReadMe/pip_commands.md)
+2) [pip](doc/ReadMe/pip.md)<br>
+   2.1 [pip commands](doc/ReadMe/pip_commands.md)
 3) [Virtual environment](doc/ReadMe/Ways_2_create_VirtualEnv_Methods_Install_and_Create.md)
 4) [variables ✘]()
 5) [string methods 〰️](doc/ReadMe/String_Functions.md)
