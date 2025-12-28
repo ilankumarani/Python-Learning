@@ -8,6 +8,6 @@
 | `frozenset`  | Immutable `HashSet` (concept)| ❌ No*   | ❌ No (Unique) | ❌ No | ❌ No          | N/A             | Immutable set; can be dict key | `x = frozenset({1, "A"})` |
 | `dict`       | `HashMap`                    | ✅ Yes** | Values: ✅ Allowed | ✅ Yes | By key ✅       | Keys: ✅ Unique  | Key-value storage, fast lookup by key | `x = {"id": 1, "name": "A"}` |
 
-\* Sets are not sorted. They may look consistent sometimes, but you should not rely on order.
+* Sets are not sorted. They may look consistent sometimes, but you should not rely on order.
 <br>
-\** Dicts preserve insertion order in modern Python (3.7+ guaranteed).
+* Dicts preserve insertion order in modern Python (3.7+ guaranteed).
