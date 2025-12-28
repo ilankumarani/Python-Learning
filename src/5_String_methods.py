@@ -1,9 +1,9 @@
 """
 String Methods Demo
-Generated from String_Methods.md
+Generated from String_Functions.md
 
 Run:
-    python 5_String_methods_demo.py
+    python 5_String_methods.py
 """
 
 def show(title: str) -> None:
