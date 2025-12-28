@@ -3,11 +3,13 @@
 2) [pip](doc/ReadMe/pip.md)<br>
    2.1 [pip commands](doc/ReadMe/pip_commands.md)
 3) [Virtual environment](doc/ReadMe/Ways_2_create_VirtualEnv_Methods_Install_and_Create.md)
-4) [variables ✘]()
-5) [string methods 〰️](doc/ReadMe/String_Functions.md)
-6) [type cast 💱]()
-7) [user input ⌨️]()
-8) [math functions 🧮](doc/ReadMe/Math_Functions.md)
+4) [variables ✘](src/2_Find_Variable_Type.py)
+5) [string methods 〰️](doc/ReadMe/String_Functions.md)<br>
+   5.1 [Demo](src/5_String_methods.py)
+6) [type cast 💱](src/3_Variable_TypeCasting.py)
+7) [user input ⌨️](src/4_User_input_And_Casting.py)
+8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
+   8.1 [Demo](src/6_Math_functions.py)
 9) [Data Structure](doc/ReadMe/Data_Structure.md)
 8) [ string slicing ✂️]()
 9) [ if statements 🤔]()
