@@ -6,8 +6,6 @@ import math
 print([n for n in dir(math) if not n.startswith("_")])
 ```
 ```shell
-python -c "print([n for n in dir(str) if not n.startswith('_')])"
-
 python -c "import math; print([n for n in dir(math) if not n.startswith(\"_\")])"
 ```
 
