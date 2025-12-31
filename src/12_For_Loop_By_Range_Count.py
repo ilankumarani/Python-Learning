@@ -1,4 +1,4 @@
-import time
+import time as tm
 from datetime import datetime
 
 ## for Range between 50(Inclusive) and 100(Exclusive) and Count
@@ -9,5 +9,5 @@ print(f"\n========= for Range Count down timer =========")
 ## for Range between 50(Inclusive) and 100(Exclusive) and Count
 for i in range(3, 0, -1):
     print(f"{i}")
-    time.sleep(1)
+    tm.sleep(1)
 print(f"Happy new year", datetime.now().year, sep=" :: [", end="]")
