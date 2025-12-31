@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Demo</title>
+  </head>
+  <body>
+    <h1>Hello</h1>
+    <p>This is a README HTML example.</p>
+  </body>
+</html>
