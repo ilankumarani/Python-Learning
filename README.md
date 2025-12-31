@@ -9,10 +9,11 @@
 6) [type cast 💱](src/3_Variable_TypeCasting.py)
 7) [user input ⌨️](src/4_User_input_And_Casting.py)
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
-   8.1 [Demo](src/6_Math_functions.py)
+   8.1 [Demo](src/8_Math_functions.py)
 9) [Data Structure](doc/ReadMe/Data_Structure.md)
 8) [ string slicing ✂️]()
-9) [ if statements 🤔](src/7_If_Statements.py)
+9) [ if statements 🤔](src/9_If_Statements.py)
+   9.1 [ternary operator](src/9_Conditional_Expression.py)
 10) [logical operators 🔣]()
 11) [while loops 🔄]()
 12) [for loops ➰]()

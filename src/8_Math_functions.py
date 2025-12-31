@@ -2,7 +2,7 @@
 Math Functions Demo (Python)
 
 Run:
-    python 6_Math_functions.py
+    python 8_Math_functions.py
 
 Note:
 - Uses the `math` module + a few built-in numeric helpers.
