@@ -14,7 +14,7 @@
 8) [ string slicing ✂️]()
 9) [ if statements 🤔](src/9_If_Statements.py)
    9.1 [ternary operator](src/9_Conditional_Expression.py)
-10) [logical operators 🔣]()
+10) [logical operators 🔣](src/10_Logical_Operator.py)
 11) [while loops 🔄]()
 12) [for loops ➰]()
 13) [nested loops ➿]()
