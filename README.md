@@ -12,7 +12,7 @@
    8.1 [Demo](src/6_Math_functions.py)
 9) [Data Structure](doc/ReadMe/Data_Structure.md)
 8) [ string slicing ✂️]()
-9) [ if statements 🤔]()
+9) [ if statements 🤔](src/7_If_Statements.py)
 10) [logical operators 🔣]()
 11) [while loops 🔄]()
 12) [for loops ➰]()
