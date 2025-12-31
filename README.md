@@ -16,7 +16,7 @@
    9.1 [ternary operator](src/9_Conditional_Expression.py)
 10) [logical operators 🔣](src/10_Logical_Operator.py)
 11) [while loops 🔄](src/11_While_Loop.py)
-12) [for loops ➰](src/12_For_Loop.py)
+12) [for loops ➰](src/12_For_Loop_By_Range.py)
 13) [nested loops ➿]()
 14) [break continue pass ⛔]()
 15) [lists 🧾]()
