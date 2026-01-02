@@ -6,13 +6,14 @@
 4) [variables ✘](src/2_Find_Variable_Type.py)
 5) [string methods 〰️](doc/ReadMe/String_Functions.md)<br>
    5.1 [Demo](src/5_String_methods.py)
+   5.2 [string indexing(sub-string) ✂️]()
 6) [type cast 💱](src/3_Variable_TypeCasting.py)
 7) [user input ⌨️](src/4_User_input_And_Casting.py)
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
    8.1 [Demo](src/8_Math_functions.py)
-9) [ string slicing ✂️]()
+---
 10) [ if statements 🤔](src/9_If_Statements.py)
-   9.1 [ternary operator](src/9_Conditional_Expression.py)
+   10.1 [ternary operator](src/9_Conditional_Expression.py)
 11) [logical operators 🔣](src/10_Logical_Operator.py)
 12) [while loops 🔄](src/11_While_Loop.py)
 13) [for loops ➰](src/12_For_Loop_By_Range.py)
@@ -46,8 +47,6 @@
 35) [move a file 🗃️]()
 36) [delete a file 🗑️]()
 37) [modules 💌]()
-38) [rock, paper, scissors game 🗿]()
-39) [quiz game 💯]()
 40) [Object Oriented Programming (OOP) 🐍]()
 41) [class variables 🚗]()
 42) [inheritance 👪]()
@@ -106,7 +105,3 @@
 95) [run with command prompt 👨‍💻]()
 96) [pip 🏗️]()
 97) [py to exe 🏃]()
-98) [calculator program 🖩]()
-99) [text editor program ✏️]()
-100) [tic tac toe game ⭕]()
-101) [snake game 🐍]()
