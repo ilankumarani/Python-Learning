@@ -18,7 +18,7 @@
 11) [while loops 🔄](src/11_While_Loop.py)
 12) [for loops ➰](src/12_For_Loop_By_Range.py)
 13) [nested for loops ➿](doc/ReadMe/nested_for_loops.md)
-   13.1 [Demo](src/13_nested_for_loops_examples.py)
+   13.1 [Demo](src/13_Nested_for_loops.py)
 14) [break continue pass ⛔](doc/ReadMe/break_continue_pass.md)
    14.1 [Demo](src/14_break_continue_pass.py)
 15) [lists 🧾]()
