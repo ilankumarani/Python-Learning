@@ -11,19 +11,19 @@
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
    8.1 [Demo](src/8_Math_functions.py)
 9) [ string slicing ✂️]()
-9) [ if statements 🤔](src/9_If_Statements.py)
+10) [ if statements 🤔](src/9_If_Statements.py)
    9.1 [ternary operator](src/9_Conditional_Expression.py)
-10) [logical operators 🔣](src/10_Logical_Operator.py)
-11) [while loops 🔄](src/11_While_Loop.py)
-12) [for loops ➰](src/12_For_Loop_By_Range.py)
-13) [nested for loops ➿](doc/ReadMe/nested_for_loops.md)
-   13.1 [Demo](src/13_Nested_for_loops.py)
-14) [break continue pass ⛔](doc/ReadMe/break_continue_pass.md)
-   14.1 [Demo](src/14_break_continue_pass.py)<br>
-___
+11) [logical operators 🔣](src/10_Logical_Operator.py)
+12) [while loops 🔄](src/11_While_Loop.py)
+13) [for loops ➰](src/12_For_Loop_By_Range.py)
+14) [nested for loops ➿](doc/ReadMe/nested_for_loops.md)
+   14.1 [Demo](src/13_Nested_for_loops.py)
+15) [break continue pass ⛔](doc/ReadMe/break_continue_pass.md)
+   15.1 [Demo](src/14_break_continue_pass.py)<br>
+---
 ### [Data Structure](doc/ReadMe/Data_Structure.md)
-15) [lists 🧾]()
-16) [2D lists 📜]()
+16) [lists 🧾]()
+17) [2D lists 📜]()
 17) [tuples 📄]()
 18) [sets 🍴]()
 19) [dictionaries 📖]()
