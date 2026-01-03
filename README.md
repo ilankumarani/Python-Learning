@@ -13,7 +13,7 @@
    8.1 [Demo](src/8_Math_functions.py)
 ---
 10) [ if statements 🤔](src/9_If_Statements.py)
-   10.1 [ternary operator](src/9_Conditional_Expression.py)
+   10.1 [Conditional Expressions(ternary operator)❓](src/9_Conditional_Expression.py)
 11) [logical operators 🔣](src/10_Logical_Operator.py)
 12) [while loops 🔄](src/11_While_Loop.py)
 13) [for loops ➰](src/12_For_Loop_By_Range.py)
