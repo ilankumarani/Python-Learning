@@ -7,6 +7,7 @@
 5) [string methods 〰️](doc/ReadMe/String_Functions.md)<br>
    5.1 [Demo](src/5_String_methods.py)
    5.2 [string indexing(sub-string) ✂️]()
+   5.3 [string format 💬](src/5_String_format.py)
 6) [type cast 💱](src/3_Variable_TypeCasting.py)
 7) [user input ⌨️](src/4_User_input_And_Casting.py)
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
