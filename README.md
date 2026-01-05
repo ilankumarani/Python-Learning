@@ -112,19 +112,3 @@
 95) [run with command prompt 👨‍💻]()
 96) [pip 🏗️]()
 97) [py to exe 🏃]()
-
-
-> [!NOTE]
-> This is a note.
-
-> [!TIP]
-> This is a tip.
-
-> [!IMPORTANT]
-> This is important.
-
-> [!WARNING]
-> This is a warning.
-
-> [!CAUTION]
-> This is a caution.
