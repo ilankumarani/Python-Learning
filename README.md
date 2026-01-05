@@ -31,12 +31,12 @@
 ---
 20) [indexing 📑]()
 
-21) [functions 📞]()
-22) [return statement 🔙]()
-23) [default arguments 👍]()
-23) [keyword arguments 🔑]()
-26) [*args 📦]()
-27) [**kwargs 🎁]()
+21) [functions 📞](src/21_Functions.py)
+22) [return statement 🔙](src/22_Functions_return.py)
+23) [default arguments 👍](src/23_Functions_args_default.py)
+23) [keyword arguments 🔑](src/24_Functions_keyword.py)
+26) [*args 📦](src/25_Functions_args.py)
+27) [**kwargs 🎁](src/26_Functions_kwargs.py)
 24) [nested function calls 🖇]()️
 25) [variable scope 🔬]()
 
