@@ -12,7 +12,7 @@ def discount_price(price, discount=0, is_back_friday=False, is_boxing_day=False)
 
     if check_deal_day(11, 27) or is_back_friday:  # Back Friday
         return calculate_discount(40)
-    elif check_deal_day(12, 25) or is_boxing_day:  # boxing day
+    elif check_deal_day(12, 26) or is_boxing_day:  # boxing day
         return calculate_discount(20)
     else:
         return calculate_discount()
