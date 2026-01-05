@@ -31,6 +31,8 @@
 ---
 20) [indexing 📑]()
 
+---
+### [Functions(Methods)](doc/ReadMe/README_python_functions_args_kwargs.md)
 21) [functions 📞](src/21_Functions.py)
 22) [return statement 🔙](src/22_Functions_return.py)
 23) [default arguments 👍](src/23_Functions_args_default.py)
