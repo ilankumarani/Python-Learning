@@ -30,13 +30,16 @@
 19) [dictionaries 📖]()
 ---
 20) [indexing 📑]()
+
 21) [functions 📞]()
 22) [return statement 🔙]()
+23) [default arguments 👍]()
 23) [keyword arguments 🔑]()
-24) [nested function calls 🖇]()️
-25) [variable scope 🔬]()
 26) [*args 📦]()
 27) [**kwargs 🎁]()
+24) [nested function calls 🖇]()️
+25) [variable scope 🔬]()
+
 28) [string format 💬]()
 29) [random numbers 🎲]()
 30) [exception handling ⚠️]()
