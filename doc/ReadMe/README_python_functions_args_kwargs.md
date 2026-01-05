@@ -197,9 +197,12 @@ full_name("Mr", last_name="Ilangovan", first_name="Ilankumaran")
 ---
 
 ## ✅ Rule 3 — You cannot pass the same argument twice
-
 ❌ Invalid:
 ```python
+def full_name(title, first_name, last_name):
+    print(f"hello {title} , First name :: {first_name} , Last name :: {last_name}")
+
+
 # full_name("Mr", "Ilankumaran", first_name="Other")  # ❌ TypeError (multiple values)
 ```
 
