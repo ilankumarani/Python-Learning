@@ -5,3 +5,6 @@ def full_name(*args):
 x = full_name("Ilankumaran", "Ilangovan");
 
 print(f"{type(x)}")
+
+# Will throw an error
+# x = full_name(first_name="Ilankumaran", last_name="Ilangovan");
