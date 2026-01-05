@@ -1,13 +1,13 @@
-def get_address(door_no, street_name):
-    def x():
-        pass
+def get_full_name(first_name, last_name):
+    def get_first_name(x):
+        return x.strip()
 
-    def y():
-        pass
+    def get_last_name(y):
+        return y.strip()
 
-    return door_no + " " + street_name
+    return get_first_name(first_name) + " " + get_last_name(last_name)
 
 
-x = get_address("Ilankumaran", "Ilangovan");
+full_name = get_full_name("Ilankumaran", "Ilangovan");
 
-print(f"Full name :: {x}")
+print(f"Full name :: {full_name}")
