@@ -32,7 +32,7 @@
 20) [indexing 📑]()
 
 ---
-### [Functions(Methods)](doc/ReadMe/README_python_functions_args_kwargs.md)
+### [Functions(Methods)](doc/ReadMe/functions/README_python_functions_args_kwargs.md)
 21) [functions 📞](src/functions/21_Functions.py)
 22) [return statement 🔙](src/functions/22_Functions_return.py)
 23) [default arguments 👍](src/functions/23_Functions_args_default.py)
