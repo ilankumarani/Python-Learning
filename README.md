@@ -37,7 +37,8 @@
 23) [keyword arguments 🔑](src/24_Functions_keyword.py)
 26) [*args 📦](src/25_Functions_args.py)
 27) [**kwargs 🎁](src/26_Functions_kwargs.py)
-28) [nested function calls 🖇]()️
+28) [function within the function]()
+28) [nested function calls 🖇](src/28_function_within_function.py)️
 25) [variable scope 🔬]()
 
 28) [string format 💬]()
