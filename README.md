@@ -33,7 +33,8 @@
 20) [indexing 📑]()
 
 ---
-### [Functions(Methods)](doc/ReadMe/functions/README_python_functions_args_kwargs.md)
+### [Functions(Methods)](doc/ReadMe/functions/1_README_python_functions_args_kwargs.md)
+
 21) [functions 📞](src/functions/21_Functions.py)
 22) [return statement 🔙](src/functions/22_Functions_return.py)
 23) [default arguments 👍](src/functions/23_Functions_args_default.py)
@@ -44,7 +45,6 @@
 28) [nested function calls 🖇](src/functions/28_function_within_function.py)️
 25) [variable scope 🔬]()
 
-28) [string format 💬]()
 29) [random numbers 🎲]()
 30) [exception handling ⚠️]()
 31) [file detection 📁]()
@@ -112,3 +112,19 @@
 95) [run with command prompt 👨‍💻]()
 96) [pip 🏗️]()
 97) [py to exe 🏃]()
+
+
+> [!NOTE]
+> This is a note.
+
+> [!TIP]
+> This is a tip.
+
+> [!IMPORTANT]
+> This is important.
+
+> [!WARNING]
+> This is a warning.
+
+> [!CAUTION]
+> This is a caution.

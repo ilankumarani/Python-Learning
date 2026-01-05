@@ -227,6 +227,8 @@ def f(a, b, *args, c, d=10, **kwargs):
 # c, d -> keyword-only (must be named)
 # **kwargs -> extra keywords
 ```
+> [!NOTE]
+> [Click here to read in Full detail](1_README_function_params_args_kwargs_kwonly.md)
 
 ---
 
