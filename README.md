@@ -12,15 +12,15 @@
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
    8.1 [Demo](src/8_Math_functions.py)
 ---
-10) [ if statements 🤔](src/9_If_Statements.py)
-   10.1 [Conditional Expressions(ternary operator)❓](src/9_Conditional_Expression.py)
-11) [logical operators 🔣](src/10_Logical_Operator.py)
-12) [while loops 🔄](src/11_While_Loop.py)
-13) [for loops ➰](src/12_For_Loop_By_Range.py)
+10) [ if statements 🤔](src/logical/9_If_Statements.py)
+   10.1 [Conditional Expressions(ternary operator)❓](src/logical/9_Conditional_Expression.py)
+11) [logical operators 🔣](src/logical/10_Logical_Operator.py)
+12) [while loops 🔄](src/logical/11_While_Loop.py)
+13) [for loops ➰](src/logical/12_For_Loop_By_Range.py)
 14) [nested for loops ➿](doc/ReadMe/nested_for_loops.md)
-   14.1 [Demo](src/13_Nested_for_loops.py)
+   14.1 [Demo](src/logical/13_Nested_for_loops.py)
 15) [break continue pass ⛔](doc/ReadMe/break_continue_pass.md)
-   15.1 [Demo](src/14_break_continue_pass.py)<br>
+   15.1 [Demo](src/logical/14_break_continue_pass.py)<br>
 ---
 ### [Data Structure](doc/ReadMe/Data_Structure.md)
 16) [lists 🧾]()
@@ -33,14 +33,14 @@
 
 ---
 ### [Functions(Methods)](doc/ReadMe/README_python_functions_args_kwargs.md)
-21) [functions 📞](src/21_Functions.py)
-22) [return statement 🔙](src/22_Functions_return.py)
-23) [default arguments 👍](src/23_Functions_args_default.py)
-23) [keyword arguments 🔑](src/24_Functions_keyword.py)
-26) [*args 📦](src/25_Functions_args.py)
-27) [**kwargs 🎁](src/26_Functions_kwargs.py)
+21) [functions 📞](src/functions/21_Functions.py)
+22) [return statement 🔙](src/functions/22_Functions_return.py)
+23) [default arguments 👍](src/functions/23_Functions_args_default.py)
+23) [keyword arguments 🔑](src/functions/24_Functions_keyword.py)
+26) [*args 📦](src/functions/25_Functions_args.py)
+27) [**kwargs 🎁](src/functions/26_Functions_kwargs.py)
 28) [function within the function]()
-28) [nested function calls 🖇](src/28_function_within_function.py)️
+28) [nested function calls 🖇](src/functions/28_function_within_function.py)️
 25) [variable scope 🔬]()
 
 28) [string format 💬]()
