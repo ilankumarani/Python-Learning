@@ -18,7 +18,7 @@ def discount_price(price, discount=0, is_back_friday=False, is_boxing_day=False)
         return calculate_discount()
 
 
-x = discount_price(919, is_back_friday=True)
-y = discount_price(919, is_boxing_day=True)
+discount_price_back_friday = discount_price(919, is_back_friday=True)
+discount_price_boxing_day = discount_price(919, is_boxing_day=True)
 
-print(f"{x}, {y}", sep=", ")
+print(f"Back friday Price :: {discount_price_back_friday}, Boxing day Price :: {discount_price_boxing_day}", sep=", ")
