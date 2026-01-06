@@ -4,8 +4,6 @@ This README explains **positional-only parameters** and **keyword-only parameter
 
 ---
 
-## Image → Text (transcribed)
-
 **Positional-only arguments**
 - Advanced and rare feature  
 - Force argument to be positional only (cannot use keyword)  
