@@ -42,7 +42,7 @@
 26) [*args 📦](src/functions/25_Functions_args.py)
 27) [**kwargs 🎁](src/functions/26_Functions_kwargs.py)
 28) [function within the function]()
-28) [nested function calls 🖇](src/functions/28_function_within_function.py)️
+28) [nested function calls 🖇](src/functions/27_function_within_function.py)️
 25) [variable scope 🔬]()
 
 29) [random numbers 🎲]()
