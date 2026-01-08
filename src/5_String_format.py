@@ -33,5 +33,11 @@ def string_format_number():
     print("The number is {:X}".format(number))
     print("The number is {:E}".format(number))
 
+def main()->None:
+    string_format()
+    string_format_number()
+    string_format_texting()
 
+if __name__ == "__main__":
+    main()
 

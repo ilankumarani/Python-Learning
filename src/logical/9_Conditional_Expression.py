@@ -13,3 +13,6 @@ x = int(input("Please enter your age: "))
 message = "Right to vote" if x >= 18 else "Can not vote"
 
 print(f"{message}")
+
+
+if __name__ = "__main__":
