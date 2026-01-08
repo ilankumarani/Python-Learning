@@ -10,8 +10,13 @@
 # value_if_true if condition else value_if_false
 
 def main()->None:
-    x = int(input("Please enter your age: "))
-    message = "Right to vote" if x >= 18 else "Can not vote"
+    x = input("Please enter your age: ")
+    if x.isdecimal():
+        x = int(x)
+        message = "Right to vote" if x >= 18 else "Can not vote"
+
+    else:
+        message = "Please enter the number"
 
     print(f"{message}")
 
