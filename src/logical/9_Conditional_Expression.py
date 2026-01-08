@@ -11,13 +11,10 @@ import logging
 
 def main()->None:
     x = input("Please enter your age: ")
-    if x.isdecimal():
-        x = int(x)
-        message = "*** Right to vote ***!!!" if x >= 18 else "*** Can not vote ***!!!"
-        logging.warning(f"{message}")
-    else:
-        message = "*** Please enter the number ***!!!"
-        logging.error(f"{message}")
+    message = "*** Right to vote ***!!!" if x.isdecimal() and x >= 18 else """May be you have Entered is not a number 
+    (or) 
+    Can not vote"""
+    print(f"{message}")
 
 
 if __name__ == "__main__":
