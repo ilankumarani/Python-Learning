@@ -6,12 +6,18 @@
 
 # It returns what the user typed as a string (str).
 
-x = input("Enter: ")
-print(type(x))   # <class 'str'>
-
-age = int(input("Enter age: "))
-salary = float(input("Enter salary: "))
 
 
-print(f"Age ::{age} and type {type(age)}")
-print(f"Salary ::{salary} and type {type(salary)}")
+
+def main()->None:
+    x = input("Enter: ")
+    print(type(x))  # <class 'str'>
+
+    age = int(input("Enter age: "))
+    salary = float(input("Enter salary: "))
+
+    print(f"Age ::{age} and type {type(age)}")
+    print(f"Salary ::{salary} and type {type(salary)}")
+
+if __name__ == "__main__":
+    main()
