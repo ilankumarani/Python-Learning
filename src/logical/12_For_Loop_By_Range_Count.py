@@ -1,5 +1,5 @@
 import time as tm
-from datetime import datetime
+import datetime
 
 ## for Range between 50(Inclusive) and 100(Exclusive) and Count
 for i in range(0, 10, 2):
