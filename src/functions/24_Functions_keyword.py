@@ -4,4 +4,5 @@ def full_name(title, first_name, last_name):
 
 
 
-full_name("Mr", last_name="Ilangovan", first_name="Ilankumaran");
+if __name__ == "__main__":
+    full_name("Mr", last_name="Ilangovan", first_name="Ilankumaran");

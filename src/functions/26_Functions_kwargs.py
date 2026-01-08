@@ -4,6 +4,6 @@ def full_name(**kwargs):
     return kwargs;
 
 
-x = full_name(first_name="Ilankumaran", last_name="Ilangovan");
-
-print(f"{type(x)}")
+if __name__ == "__main__":
+    x = full_name(first_name="Ilankumaran", last_name="Ilangovan");
+    print(f"{type(x)}")

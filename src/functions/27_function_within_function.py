@@ -8,6 +8,6 @@ def get_full_name(first_name, last_name):
     return get_first_name(first_name) + " " + get_last_name(last_name)
 
 
-full_name = get_full_name("Ilankumaran", "Ilangovan");
-
-print(f"Full name :: {full_name}")
+if __name__ == "__main__":
+    full_name = get_full_name("Ilankumaran", "Ilangovan");
+    print(f"Full name :: {full_name}")
