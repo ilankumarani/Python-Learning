@@ -12,6 +12,7 @@
 7) [user input ⌨️](src/4_User_input_And_Casting.py)
 8) [math functions 🧮](doc/ReadMe/Math_Functions.md)<br>
    8.1 [Demo](src/8_Math_functions.py)
+9) [random numbers 🎲]()
 ---
 10) [ if statements 🤔](src/logical/9_If_Statements.py)
    10.1 [Conditional Expressions(ternary operator)❓](src/logical/9_Conditional_Expression.py)
@@ -47,7 +48,7 @@
 26) [lambda λ](doc/ReadMe/README_lambda.md)<br>
    26.1 [Demo](src/functions/lambda_demo.py)
 
-27) [random numbers 🎲]()
+---
 30) [exception handling ⚠️]()
 37) [modules 💌]()
 
