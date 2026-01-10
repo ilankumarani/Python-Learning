@@ -120,7 +120,7 @@ class Dog(Animal):
 - Python: `__eq__()` / `__hash__()`
 - If you override `__eq__` and don’t define `__hash__`, Python may make instances unhashable (to avoid broken sets/dicts).
 
-### 6) Fields vs attributes
+### 6) Fields(Class(Static) variable vs attributes(Instance variable)
 - Java fields are declared in the class.
 - Python instance attributes often appear in `__init__`:
   ```python
