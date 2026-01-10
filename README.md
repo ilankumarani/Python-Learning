@@ -54,8 +54,15 @@
 35) [move a file 🗃️]()
 36) [delete a file 🗑️]()
 37) [modules 💌]()
+
+---
+### [OOPS)](doc/ReadMe/functions/1_README_python_functions_args_kwargs.md)
 40) [Object Oriented Programming (OOP) 🐍]()
-41) [class variables 🚗]()
+41) [class 🚗](src/oops/1_Simple_class.py)
+42) [Constructor 🚧](src/oops/2_Class_constructor.py)
+43) [Self 💫](src/oops/3_Self.py)
+43) [Instance Variable 🛗🔠](src/oops/4_Class_vs_Instance_Variable.py)
+44) [Class Variable(Static Variable) 🚗🔠](src/oops/4_Class_vs_Instance_Variable.py)
 42) [inheritance 👪]()
 43) [multilevel inheritance 👴]()
 44) [multiple inheritance 👨‍👩‍👧‍👦]()
