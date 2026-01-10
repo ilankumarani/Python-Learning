@@ -1,7 +1,7 @@
-"""lambda_demo.py
+"""10_lambda_demo.py
 
 Run:
-    python lambda_demo.py
+    python 10_lambda_demo.py
 
 This file demonstrates:
 - Basic lambda usage

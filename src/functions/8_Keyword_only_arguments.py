@@ -1,4 +1,4 @@
-"""28_Keyword_only_arguments.py
+"""8_Keyword_only_arguments.py
 
 Demo: Keyword-only parameters
 
@@ -7,7 +7,7 @@ Key idea:
 - You must pass them using name=value.
 
 Run:
-    python 28_Keyword_only_arguments.py
+    python 8_Keyword_only_arguments.py
 """
 
 def send_email(to, *, subject, body):

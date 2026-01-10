@@ -1,4 +1,4 @@
-"""29_Positional_only_arguments.py
+"""9_Positional_only_arguments.py
 
 Demo: Positional-only parameters (Python 3.8+)
 
@@ -7,7 +7,7 @@ Key idea:
 - You cannot pass them as keyword arguments.
 
 Run:
-    python 29_Positional_only_arguments.py
+    python 9_Positional_only_arguments.py
 """
 
 def f(a, b, /, c, d=10):

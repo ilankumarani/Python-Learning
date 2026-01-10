@@ -36,17 +36,17 @@
 ---
 ### [Functions(Methods)](doc/ReadMe/functions/1_README_python_functions_args_kwargs.md)
 
-21) [functions 📞](src/functions/21_Functions.py)
-22) [return statement 🔙](src/functions/22_Functions_return.py)
-23) [default arguments 👍](src/functions/23_Functions_args_default.py)
-23) [keyword arguments 🔑](src/functions/24_Functions_keyword.py)
-26) [*args 📦](src/functions/25_Functions_args.py)
-27) [**kwargs 🎁](src/functions/26_Functions_kwargs.py)
+21) [functions 📞](src/functions/1_Functions.py)
+22) [return statement 🔙](src/functions/2_Functions_return.py)
+23) [default arguments 👍](src/functions/3_Functions_args_default.py)
+23) [keyword arguments 🔑](src/functions/4_Functions_keyword.py)
+26) [*args 📦](src/functions/5_Functions_args.py)
+27) [**kwargs 🎁](src/functions/6_Functions_kwargs.py)
 28) [function within the function]()
-28) [nested function calls 🖇](src/functions/27_function_within_function.py)️
+28) [nested function calls 🖇](src/functions/7_function_within_function.py)️
 25) [variable scope 🔬]()
 26) [lambda λ](doc/ReadMe/README_lambda.md)<br>
-   26.1 [Demo](src/functions/lambda_demo.py)
+   26.1 [Demo](src/functions/10_lambda_demo.py)
 
 ---
 30) [exception handling ⚠️]()
