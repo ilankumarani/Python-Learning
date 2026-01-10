@@ -1,8 +1,4 @@
-import logging
 import string
-from typing import Self, Type
-
-from src.oops.Car_Constructor import Car as Car
 
 
 class Car:
@@ -16,18 +12,17 @@ class Car:
         self.color = color  # instance variable
 
 
-Car.wheels = 4
 
-car_1 = Car(color="White")
-print(f"{car_1.get_colour()}")
-logging.log("tesst")
-print(f"---->{car_1 is car_1.get_instance(), type(car_1.get_instance())}")
-print(f"++++>{car_1 is car_1.get_current_instance(), type(car_1.get_current_instance())}")
-print(f"{car_1.get_current_instance().color}")
 
-car_2 = Car(color="Blue")
-car_2.wheels = 8
-print(f"{car_2.get_colour()}")
-print(f"{car_2.get_current_instance().color}")
+def main() -> None:
+    Car.wheels = 4
+    car_1 = Car(color="White")
 
-print(f"{car_1.wheels, car_2.wheels}")
+    car_2 = Car(color="Blue")
+    car_2.wheels = 8
+
+    print(f"car_1 Wheels :: {car_1.wheels}", f"car_2 Wheels :: {car_2.wheels}", sep=", ", end=" !!!")
+
+
+if __name__ == "__main__":
+    main()
