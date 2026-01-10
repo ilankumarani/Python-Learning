@@ -44,6 +44,8 @@
 28) [function within the function]()
 28) [nested function calls 🖇](src/functions/27_function_within_function.py)️
 25) [variable scope 🔬]()
+26) [lambda λ](doc/ReadMe/README_lambda.md)<br>
+   26.1 [Demo](src/functions/lambda_demo.py)
 
 29) [random numbers 🎲]()
 30) [exception handling ⚠️]()
@@ -60,7 +62,8 @@
 40) [Object Oriented Programming (OOP) 🐍]()
 41) [class 🚗](src/oops/1_Simple_class.py)
 42) [Constructor 🚧](src/oops/2_Class_constructor.py)
-43) [Self 💫](src/oops/3_Self.py)
+43) [Self 💫](doc/ReadMe/README-self-python.md)<br>
+    43.1 [Demo](src/oops/3_Self.py)
 43) [Instance Variable 🛗🔠](src/oops/4_Class_vs_Instance_Variable.py)
 44) [Class Variable(Static Variable) 🚗🔠](src/oops/4_Class_vs_Instance_Variable.py)
 42) [inheritance 👪]()
