@@ -8,24 +8,12 @@ from src.oops.Car_Constructor import Car as Car
 class Car:
     wheels: int = 0  # class variable (Static variable in java) (Shared across the Objects)
 
-    def __init__(self, make: string = "Toyota", model: string = "Rav4", year: int = "1989",
+    def __init__(self, make: string = "Toyota", model: string = "Rav4", year: int = 1989,
                  color: string = "Red") -> None:
         self.make = make  # instance variable
         self.model = model  # instance variable
         self.year = year  # instance variable
         self.color = color  # instance variable
-
-    def get_colour(self) -> string:
-        return self.color
-
-    def get_instance(self) -> Self:
-        print(f"===>self")
-        return self
-
-    def get_current_instance(self) -> Type[Car]:
-        print(f"===>car")
-        #return type(self)
-        return self # (This is not correct)
 
 
 Car.wheels = 4
